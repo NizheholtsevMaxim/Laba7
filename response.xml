@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Literatures>
+  <book ID_Book="1">
+    <name>География</name>
+    <year>2020</year>
+    <ISBN>978-5-901202-50-0</ISBN>
+    <quantity>250</quantity>
+    <publisher>ERN</publisher>
+    <literature>Book</literature>
+    <author>Иванов В.В.</author>
+  </book>
+</Literatures>
